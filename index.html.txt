@@ -1,0 +1,58 @@
+# Pug Dog Ghost Coin
+
+Welcome to the official repository for **Pug Dog Ghost Coin**! This is the spookiest and funniest meme coin in the cryptosphere, featuring a Pug Lazy ghost. 
+
+## Website
+
+The live website is available at [Pug Lazy Ghost Coin](https://PugLazyGhost.github.io).
+
+## Tokonomics
+
+Pug Dog Ghost Coin is designed to entertain and engage the community. Here are the key details:
+
+- **Total Supply**: 1,000,000,000 PDG
+- **Initial Burn**: 90%
+- **Rewards**: 5% Redistributed to Holders
+- **Liquidity**: 3% Added to Liquidity Pool
+- **Marketing**: 2% for Marketing and Development
+
+## Roadmap
+
+### Phase 1: Launch
+- Website Launch
+- Community Building
+- Initial Marketing Push
+
+### Phase 2: Growth
+- Exchange Listings
+- Partnership Announcements
+- More Marketing Campaigns
+
+### Phase 3: Expansion
+- NFT Releases
+- Merchandise Store
+- Major Exchange Listings
+
+## How to Contribute
+
+We welcome contributions from the community. Here’s how you can help:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add new feature'`)
+5. Push to the branch (`git push origin feature-branch`)
+6. Create a new Pull Request
+
+## Contact
+
+Stay connected with us on social media!
+- Twitter: [@PugDogGhost](https://twitter.com/PugLazyGhost)
+- Discord: [Pug Dog Ghost Community](https://discord.gg/PugLazyGhost)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+© 2024 Pug Dog Ghost Coin. All rights reserved.
