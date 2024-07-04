@@ -1,3 +1,0 @@
-git add index.html
-git commit -m "Add images to the website"
-git push origin main
